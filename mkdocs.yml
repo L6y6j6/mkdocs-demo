@@ -1,0 +1,6 @@
+site_name: MkDocs Demo
+site_url: https://l6y6j6.github.io/mkdocs-demo/ # 网站链接
+use_directory_urls: true # 使用目录链接
+
+theme:
+  name: "material"
